@@ -23,8 +23,8 @@ const websites = [
   },
   {
     name: "TinyZoneTV",
-    url: "https://tinyzonetv.se/home",
-    image: "https://tinyzonetv.se/images/group_2/theme_1/logo.png?v=0.1",
+    url: "https://tinyzonetv.cc/home",
+    image: "https://tinyzonetv.cc/images/group_2/theme_1/logo.png?v=0.1",
     alt: "TinyZoneTV",
   },
   {
@@ -37,7 +37,7 @@ const websites = [
   {
     name: "CrackStreams",
     url: "https://meth.crackstreams.biz/",
-    image: "https://meth.crackstreams.biz/img/logo.png",
+    image: "https://thecrackstreams.to/wp-content/uploads/2024/10/cropped-crackstreams.png",
     alt: "CrackStreams",
   },
   {
